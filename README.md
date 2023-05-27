@@ -7,7 +7,7 @@ It ensures good performance with large datasets.
 
 >## PROCESS OF PROJECT
 
-### Frontend side(client):
+### *Frontend side(client)*:
 
  * Open a web browser and enter the URL "localhost:8085" to access the project's home page.
 
@@ -38,7 +38,7 @@ It ensures good performance with large datasets.
 
 ![one data show](https://github.com/tkmourya/KinaraCapitalassignment/assets/132468329/b27f0229-df67-47ec-97a7-00f538a91848)
 
-### Backend Development (Developer Site):
+### *Backend Development (Developer Site)*:
 
 * To interact with the backend, you can utilize the Postman software.
 
@@ -60,7 +60,7 @@ It ensures good performance with large datasets.
 
 ![postman allget](https://github.com/tkmourya/KinaraCapitalassignment/assets/132468329/ea36642f-3497-4023-b447-f847a636ebe6)
 
-### MySQL Database (DBMS & RDBMS):
+### *MySQL Database (DBMS & RDBMS)*:
 
 * The student data is stored in a MySQL database,permanently.
 
