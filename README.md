@@ -21,7 +21,7 @@ Fill the student data
 
 ![2 add data](https://github.com/tkmourya/KinaraCapitalassignment/assets/132468329/f70ffcd4-a299-4638-832d-f1c20df6c443)
 
-After click
+Click on Add Student 
 Showing Massage 
 
 ![added susss](https://github.com/tkmourya/KinaraCapitalassignment/assets/132468329/0cbe34a6-317c-4875-b736-e6425f875ff6)
